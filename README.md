@@ -12,7 +12,7 @@ I'm a software developer and Entrepreneur  interested in building practical appl
 
 🎯 Goal: Build reliable, useful, and production-oriented software
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 
 Languages: Python, Java, C, C++, JavaScript, SQL
 
@@ -28,7 +28,7 @@ Cloud & DevOps: AWS, Azure, Google Cloud, Docker, Git, GitHub, Linux, CI/CD
 
 Tools: Postman
 
-🚀 Featured Projects
+#🚀 Featured Projects
 
 Sync Life AI
 
@@ -46,7 +46,7 @@ I'm working on projects involving full-stack development, AI integration, data-d
 
 Explore my repositories for source code, documentation, and ongoing development work.
 
-📚 Current Learning Goals
+#📚 Current Learning Goals
 
 Building scalable APIs with Python and FastAPI
 
@@ -56,7 +56,7 @@ Integrating AI models and RAG pipelines into applications
 
 Improving testing, deployment, security, and system design
 
-🤝 Let's Connect
+#🤝 Let's Connect
 
 I'm interested in software development, AI engineering, open-source collaboration, and opportunities to build meaningful technology.
 
