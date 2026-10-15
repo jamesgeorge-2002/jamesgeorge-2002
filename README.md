@@ -1,69 +1,36 @@
 # Hi, I'm James George 👋
 
-I'm a software developer and Entrepreneur  interested in building practical applications that combine clean user interfaces, scalable backend systems, and intelligent AI-powered features.
+Software developer and entrepreneur building practical applications that combine clean user interfaces, scalable backends, and AI-powered features.
 
-💻 Working with Python, FastAPI, Flutter, React, and SQL
+- 💻 Working with **Python, FastAPI, Flutter, React, and SQL**
+- 🤖 Exploring **Machine Learning, NLP, LLMs, and RAG**
+- 🔧 Interested in REST APIs, authentication, database design, and cloud
+- 🌱 Learning system design, testing, and DevOps
+- 🎯 Goal: build reliable, useful, production-oriented software
 
-🤖 Exploring Machine Learning, NLP, LLMs, and Retrieval-Augmented Generation (RAG)
+## 🛠️ Tech Stack
 
-🔧 Interested in REST APIs, authentication, database design, and cloud technologies
+| Area | Tools |
+|---|---|
+| **Languages** | Python, JavaScript, SQL, Java, C, C++ |
+| **Frontend** | Flutter, React, HTML5, CSS3 |
+| **Backend** | FastAPI, Flask, Django, Spring Boot, REST APIs, JWT |
+| **Databases** | MySQL, PostgreSQL, SQLite, Firebase Firestore |
+| **AI / ML** | NLP, LLMs, RAG, LangChain, Prompt Engineering |
+| **Cloud & DevOps** | AWS, Azure, GCP, Docker, Git, Linux, CI/CD |
+| **Tools** | Postman |
 
-🌱 Continuously learning software engineering, system design, and DevOps
 
-🎯 Goal: Build reliable, useful, and production-oriented software
+## 📚 Currently Learning
 
-🛠️ Tech Stack
+- Scalable APIs with Python and FastAPI
+- Modern apps with Flutter and React
+- Integrating LLMs and RAG pipelines into applications
+- Testing, deployment, security, and system design
 
-Languages: Python, Java, C, C++, JavaScript, SQL
+## 🤝 Let's Connect
 
-Frontend: Flutter, React.js, HTML5, CSS3
+Open to software development and AI engineering work, and to open-source collaboration.
 
-Backend: FastAPI, Flask, Django, Spring Boot, REST APIs, JWT
-
-Databases: MySQL, PostgreSQL, Firebase Firestore, SQLite
-
-AI & Machine Learning: Machine Learning, NLP, LLMs, RAG, LangChain, Prompt Engineering
-
-Cloud & DevOps: AWS, Azure, Google Cloud, Docker, Git, GitHub, Linux, CI/CD
-
-Tools: Postman
-
-🚀 Featured Projects
-
-Sync Life AI
-
-An AI-oriented application project focused on organizing and improving everyday workflows.
-
-Repository: Sync Life AI
-
-Tech stack: Update this section to match the technologies actually implemented in the repository.
-
-Highlights: Add your key features, architecture, and a live demo if available.
-
-More Projects
-
-I'm working on projects involving full-stack development, AI integration, data-driven applications, and backend engineering.
-
-Explore my repositories for source code, documentation, and ongoing development work.
-
-📚 Current Learning Goals
-
-Building scalable APIs with Python and FastAPI
-
-Developing modern applications with Flutter and React
-
-Integrating AI models and RAG pipelines into applications
-
-Improving testing, deployment, security, and system design
-
-#🤝 Let's Connect
-
-I'm interested in software development, AI engineering, open-source collaboration, and opportunities to build meaningful technology.
-
-GitHub: Explore my repositories
-
-## 📫 Reach me
-- LinkedIn: www.linkedin.com/in/james-george-251585220
-- Email: jamesgeorge.tec@gmail.com
-
-- 
+- 💼 [LinkedIn](https://www.linkedin.com/in/james-george-251585220)
+- 📧 jamesgeorge.tec@gmail.com
