@@ -1,3 +1,11 @@
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=James%20George&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%7C%20Entrepreneur&descSize=18&descAlignY=58)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=520&lines=Building+with+Python+%26+FastAPI;Flutter+%2B+React+apps;Exploring+LLMs+and+RAG)](https://github.com/jamesgeorge-2002)
+
+</div>
+
 # Hi, I'm James George 👋
 
 Software developer and entrepreneur building practical applications that combine clean user interfaces, scalable backends, and AI-powered features.
@@ -21,6 +29,7 @@ Software developer and entrepreneur building practical applications that combine
 | **Tools** | Postman |
 
 
+
 ## 📚 Currently Learning
 
 - Scalable APIs with Python and FastAPI
@@ -34,3 +43,5 @@ Open to software development and AI engineering work, and to open-source collabo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/james-george-251585220)
 - 📧 jamesgeorge.tec@gmail.com
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
