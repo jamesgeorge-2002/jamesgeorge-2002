@@ -37,8 +37,7 @@ Software developer and entrepreneur building practical applications that combine
 - Integrating LLMs and RAG pipelines into applications
 - Testing, deployment, security, and system design
 
-  
-<picture>
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tishashanty/tishashanty/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tishashanty/tishashanty/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/tishashanty/tishashanty/output/github-snake.svg" width="100%" />
