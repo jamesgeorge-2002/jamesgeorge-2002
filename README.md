@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=520&lines=Building+with+Python+%26+FastAPI;Flutter+%2B+React+apps;Exploring+LLMs+and+RAG)](https://github.com/jamesgeorge-2002)
 
+![Profile Views](https://komarev.com/ghpvc/?username=jamesgeorge-2002&color=36bcf7&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 # Hi, I'm James George 👋
@@ -18,6 +20,10 @@ Software developer and entrepreneur building practical applications that combine
 
 ## 🛠️ Tech Stack
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,flutter,react,html,css,fastapi,flask,django,spring,mysql,postgres,sqlite,firebase,aws,azure,gcp,docker,git,linux,postman&theme=dark" />
+</p>
+
 | Area | Tools |
 |---|---|
 | **Languages** | Python, JavaScript, SQL, Java, C, C++ |
@@ -28,7 +34,12 @@ Software developer and entrepreneur building practical applications that combine
 | **Cloud & DevOps** | AWS, Azure, GCP, Docker, Git, Linux, CI/CD |
 | **Tools** | Postman |
 
+## 🚀 Featured Projects
 
+| Project | Description | Tech |
+|---|---|---|
+| [Project One](https://github.com/jamesgeorge-2002/your-repo) | One-line description | Python, FastAPI |
+| [Project Two](https://github.com/jamesgeorge-2002/your-repo) | One-line description | Flutter |
 
 ## 📚 Currently Learning
 
@@ -37,10 +48,17 @@ Software developer and entrepreneur building practical applications that combine
 - Integrating LLMs and RAG pipelines into applications
 - Testing, deployment, security, and system design
 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tishashanty/tishashanty/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tishashanty/tishashanty/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/tishashanty/tishashanty/output/github-snake.svg" width="100%" />
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jamesgeorge-2002&show_icons=true&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesgeorge-2002&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamesgeorge-2002/jamesgeorge-2002/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jamesgeorge-2002/jamesgeorge-2002/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/jamesgeorge-2002/jamesgeorge-2002/output/github-snake.svg" width="100%" />
 </picture>
 
 ## 🤝 Let's Connect
