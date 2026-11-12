@@ -38,8 +38,7 @@ Software developer and entrepreneur building practical applications that combine
 
 | Project | Description | Tech |
 |---|---|---|
-| [Project One](https://github.com/jamesgeorge-2002/your-repo) | One-line description | Python, FastAPI |
-| [Project Two](https://github.com/jamesgeorge-2002/your-repo) | One-line description | Flutter |
+| [Sync-Life-Ai](https://github.com/jamesgeorge-2002/sync-life-ai.git) | Ai to manage Daily Life Activity | React native,JavaScript |
 
 ## 📚 Currently Learning
 
